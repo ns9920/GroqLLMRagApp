@@ -1,0 +1,13 @@
+gradio
+re
+librosa
+fitz
+tqdm
+transformers
+requests
+beautifulsoup4
+torch
+sentence-transformers
+groq
+csv
+pandas
