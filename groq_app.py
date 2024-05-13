@@ -12,7 +12,7 @@ from logic import csv_to_dict_list
 
 
 model = "sentence-transformers/all-MiniLM-L6-v2"
-groq_api_key = "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"
+groq_api_key = GROQ_API_KEY
 
 def print_like_dislike(x: gr.LikeData):
     print(x.index, x.value, x.liked)
